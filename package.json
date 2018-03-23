@@ -1,18 +1,19 @@
 {
-  "name": "tui-jsdoc-template",
-  "version": "1.2.2",
-  "description": "Toast UI JSDoc Template",
+  "name": "compass-tui-jsdoc-template",
+  "version": "1.2.3",
+  "description": "Toast UI JSDoc Template - Compass Edit",
   "main": "publish.js",
   "scripts": {
     "serve": "gulp serve"
   },
   "authors": [
-    "NHNEnt FE Development Lab <dl_javascript@nhnent.com>"
+    "NHNEnt FE Development Lab <dl_javascript@nhnent.com>",
+      "Serdar Sanri <serdar.sanri@caresync.com>
   ],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nhnent/tui.jsdoc-template"
+    "url": "https://github.com/SerdarSanri/tui.jsdoc-template"
   },
   "keywords": [
     "jsdoc",
